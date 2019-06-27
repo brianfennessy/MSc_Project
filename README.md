@@ -1,4 +1,4 @@
-MSc_Project
+# MSc_Project
 
 This folder contains the 
   1. Scripts used for pre-processing the data 
